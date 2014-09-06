@@ -4,8 +4,8 @@ D
 *Books:*
 
 - Programming in D, Ali Çehreli - http://ddili.org/ders/d.en/
-- The D Programming Language, Andrei Alexandrescu - http://www.amazon.com/D-Programming-Language-Andrei-Alexandrescu/dp/0321635361
-- D Cookbook, Adam D Ruppe - http://www.amazon.com/dp/1783287217/?tag=packtpubli-20
+- The D Programming Language, Andrei Alexandrescu - http://amzn.to/1pXjjZX
+- D Cookbook, Adam D Ruppe - http://amzn.to/1pAHUhd
 
 *Other resources:*
 
