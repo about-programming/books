@@ -1,7 +1,7 @@
 Books & other Resources About Programming
 =========================================
 
-Let's build a programming book shelf together! Have there been books that you have read that really stood out and helped you improve your skills? If so please add them to this project. There are so many good books on programming and software development that it can be hard to find the right books for you. What this little project aims for is to provide you with an index of books, all recommended by other programmers. 
+Let's build a programming book shelf together! Have there been books that you have read that really stood out and helped you improve your skills? If so please add them to this project. There are so many good books on programming and software development that it can be hard to find the right books for you. What this little project aims for is to provide you with an index of books, all recommended by other programmers.
 
 Organization
 ============
@@ -21,3 +21,8 @@ About Programming<br/>
 @abt_programming
 
 
+Index
+=====
+
+- [Programming Languages](programming_languages/)
+- [Methodologies](methodologies/)
