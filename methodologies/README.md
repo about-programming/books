@@ -1,6 +1,7 @@
 Methodologies
 =============
 
+- [Testing](testing.md)
 - [Design Patterns](design_patterns.md)
+- [Architecture](architecture.md)
 - [General Improvements](general_improvements.md)
-- [Test Driven Development (TDD)](test_driven_development.md)
