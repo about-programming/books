@@ -7,3 +7,4 @@ Programming Languages
 - [F#](f-sharp.md)
 - [Haskell](haskell.md)
 - [Lisp](lisp.md)
+- [Racket](racket.md)
