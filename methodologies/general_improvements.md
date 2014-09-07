@@ -6,3 +6,5 @@ General Improvements
 - Clean Code: A Handbook of Agile Software Craftsmanship, Robert C. Martin- http://amzn.to/YknjZ2
 - The Clean Coder, Robert C. Martin - http://amzn.to/1rjAkZB
 - Working Effectively with Legacy Code, Michael Feathers - http://amzn.to/1rkQUZl
+- Refactoring : Improving the design of existing code, Martin Fowler - http://amzn.to/1BiQuKa
+- The Mythical Man-Month: Essays on Software Engineering, Frederick P. Brooks Jr. - http://amzn.to/1urvQ7q
