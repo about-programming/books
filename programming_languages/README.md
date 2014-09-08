@@ -8,3 +8,7 @@ Programming Languages
 - [Haskell](haskell.md)
 - [Lisp](lisp.md)
 - [Racket](racket.md)
+
+*Other:*
+- [Refactoring](refactoring.md)
+- [Mixed](mixed.md)
