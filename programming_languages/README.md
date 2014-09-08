@@ -10,5 +10,4 @@ Programming Languages
 - [Racket](racket.md)
 
 *Other:*
-- [Refactoring](refactoring.md)
 - [Mixed](mixed.md)

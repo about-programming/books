@@ -2,6 +2,7 @@ Methodologies
 =============
 
 - [Testing](testing.md)
+- [Refactoring](refactoring.md)
 - [Design Patterns](design_patterns.md)
 - [Architecture](architecture.md)
 - [Continious Delivery](continious_delivery.md)
