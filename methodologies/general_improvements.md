@@ -7,3 +7,4 @@ General Improvements
 - Working Effectively with Legacy Code, Michael Feathers - http://amzn.to/1rkQUZl
 - Refactoring : Improving the design of existing code, Martin Fowler - http://amzn.to/1BiQuKa
 - The Mythical Man-Month: Essays on Software Engineering, Frederick P. Brooks Jr. - http://amzn.to/1urvQ7q
+- Programming Pearls, Jon Bentley - http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880 
