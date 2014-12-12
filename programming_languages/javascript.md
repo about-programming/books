@@ -15,6 +15,10 @@ Javascript
 
 - 'Eloquent JavaScript: A Modern Introduction to Programming', Marijn Haverbeke - http://amzn.com/1593272820
 
+- 'Pro AngularJS (Expert's Voice in Web Development)', Adam Freeman - http://amzn.com/1430264489
+
+- 'Node.js the Right Way: Practical, Server-Side', Jim R. Wilson - http://amzn.com/1937785734
+
 *Other resources:*
 
 - Mailing list -
