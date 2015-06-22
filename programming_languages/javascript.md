@@ -19,6 +19,15 @@ Javascript
 
 - 'Node.js the Right Way: Practical, Server-Side', Jim R. Wilson - http://amzn.com/1937785734
 
+- 'JavaScript: The Definitive Guide, 6th Edition', David Flanagan - http://shop.oreilly.com/product/9780596805531.do
+
+- 'You Don't Know JS: ES6 & Beyond', Kyle Simpson - http://www.amazon.com/You-Dont-Know-JS-Beyond/dp/1491904240
+
+- 'Programming JavaScript Applications', Eric Elliott - http://www.amazon.com/Programming-JavaScript-Applications-Architecture-Libraries/dp/1491950293
+
+-'JavaScript Cookbook, 2nd Edition', Shelley Powers - http://shop.oreilly.com/product/0636920033455.do 
+
+
 *Other resources:*
 
 - Mailing list -
